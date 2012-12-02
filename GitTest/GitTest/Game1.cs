@@ -23,6 +23,8 @@ namespace GitTest
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+
+            //olaolaola
         }
 
         /// <summary>
